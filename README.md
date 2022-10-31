@@ -1,5 +1,5 @@
-# PongGame
-Pong Game written in JavaScript
+# Cross Road Game
+Game written in JavaScript
 
 ![](https://github.com/juqueiroza/PongGame/blob/main/pfc.gif)
 
